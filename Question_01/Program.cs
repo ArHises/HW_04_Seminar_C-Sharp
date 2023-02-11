@@ -7,6 +7,7 @@ void Print(int[] array)
         Console.Write($"{array[i]} ");
     }
 }
+
 int[] FillBenary(int n)
 {
     int[] binnary = new int[n];

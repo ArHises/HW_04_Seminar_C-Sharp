@@ -1,0 +1,15 @@
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\bin\Debug\net6.0\Question_01.exe
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\bin\Debug\net6.0\Question_01.deps.json
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\bin\Debug\net6.0\Question_01.runtimeconfig.json
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\bin\Debug\net6.0\Question_01.dll
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\bin\Debug\net6.0\Question_01.pdb
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\obj\Debug\net6.0\Question_01.csproj.AssemblyReference.cache
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\obj\Debug\net6.0\Question_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\obj\Debug\net6.0\Question_01.AssemblyInfoInputs.cache
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\obj\Debug\net6.0\Question_01.AssemblyInfo.cs
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\obj\Debug\net6.0\Question_01.csproj.CoreCompileInputs.cache
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\obj\Debug\net6.0\Question_01.dll
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\obj\Debug\net6.0\refint\Question_01.dll
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\obj\Debug\net6.0\Question_01.pdb
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\obj\Debug\net6.0\Question_01.genruntimeconfig.cache
+C:\Users\roma1\Desktop\programm-ing school\C# learning\HW_04\Question_01\obj\Debug\net6.0\ref\Question_01.dll

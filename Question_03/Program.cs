@@ -28,5 +28,5 @@ int FindTenToNinetynine(int[] array){
 }
 int[] array = FillThreeDigit(123);
 Print(array);
-Console.WriteLine($"Number of numbers between 10 and 100 is: {FindTenToNinetynine(array)}");
+Console.WriteLine($"Counter of numbers between 10 and 99 is: {FindTenToNinetynine(array)}");
 
